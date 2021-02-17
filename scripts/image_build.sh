@@ -44,6 +44,7 @@ if [[ ($# == "--help") ||  $# == "-h" ]]; then
 	exit 0
 fi
 
+export CD_BUILD_ALL="true"
 export CD_REF_SLUG=$1
 export CD_REF_NAME=$2
 if [ -z $CD_REF_NAME ]; then

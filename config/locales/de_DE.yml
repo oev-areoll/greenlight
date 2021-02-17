@@ -311,7 +311,7 @@ de_DE:
       start: Suche beginnen...
   landing:
     about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    welcome: Willkommen zum BigBlueButton der id-fabrik.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
@@ -387,6 +387,10 @@ de_DE:
       name_placeholder: Geben Sie einen Raumnamen ein...
       not_blank: Es muss ein Raumname angegeben werden.
       title: Neuen Raum erstellen
+      voice_bridge_pin: Voice Conference PIN
+      voice_bridge_pin_placeholder: Generate an optional Voice Conference PIN
+      voice_bridge_pin_btn_label: Generate new Voice Conference PIN
+      voice_bridge_pin_reset_label: Reset Voice Conference PIN
     delete_account:
       confirm: "Sind Sie sicher, dass Sie dieses Konto löschen wollen?"
       delete: "Ich bin sicher, das Konto soll gelöscht werden."
